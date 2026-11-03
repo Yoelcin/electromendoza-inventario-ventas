@@ -1,7 +1,7 @@
 # ⚡ ElectroMendoza S.A. - Módulo Integrado de Gestión de Inventario y Ventas (B2B/B2C)
 
 **Asignatura:** Organización Empresarial  
-**Carrera:** Tecnicatura Universitaria en Programación a Distancia (TUP AD) - Universidad Tecnológica Nacional (UTN)  
+**Carrera:** Tecnicatura Universitaria en Programación a Distancia (TUPAD) - Universidad Tecnológica Nacional (UTN)  
 **Docente Titular:** Prof. Gabriela Martínez | **Docente Tutor:** Prof. Carolina Bruno  
 **Autor / Desarrollador:** Yoel Samir Axel Ramirez  
 
