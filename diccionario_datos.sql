@@ -1,0 +1,1 @@
+-- Esquema SQL ElectroMendoza S.A.
